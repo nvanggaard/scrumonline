@@ -19,7 +19,7 @@ $cardSets = [
     // Powers of two used by other teams
     ['0' ,'1', '2', '4', '8', '16', '32', '64'],
     // Card set used to estimate hours as different fractions and multiples of a working day
-    ['1', '2', '4', '8', '12', '16', '24', '32', '40'],
+    ['1', '2', '4', '8', '12', '16', '24', '32', '40', '60',  '80', '120'],
     // Demonstration of the coffee cup card
     ['&#9749;', '1', '2', '3', '5', '8', '13', '20', '?'],
     // T-shirt Size
